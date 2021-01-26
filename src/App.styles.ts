@@ -9,6 +9,5 @@ export const StyledButton = styled(IconButton)`
  position: fixed;
  z-index: 100;
  right: 15px;
- top: 20px;
-
+ top: 81px;
 `;
