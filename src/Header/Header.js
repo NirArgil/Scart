@@ -7,9 +7,8 @@ const Header = () => {
       <nav class="navbar sticky-top">
         <a class="navbar-brand" href="">Scart</a>
       </nav>
-
-    </Wrapper>    
-        
+    </Wrapper>
+  
  );
 };
 
